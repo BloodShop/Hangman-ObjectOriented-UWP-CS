@@ -23,12 +23,11 @@ Hangman ObjectOriented UWP CS - basic of OOProgramming C#
  4. Code duplication is avoided
 
 • Features in C# that are practiced in this project:
-	1. Arrays
-  2. Strings
-  3. Enums
-  4. Interfaces
-  5. Classes
-  6. Object Based programming
-  7. encapsulation
+ 1. Arrays 
+ 2. StringsEnums 
+ 3. Interfaces 
+ 4. Classes 
+ 5. Object Based programming 
+ 6. encapsulation
 
 ![img3](https://user-images.githubusercontent.com/23366804/175066815-1904e93c-9736-4af8-acde-83506e1aa89e.png)
